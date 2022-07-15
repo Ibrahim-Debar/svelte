@@ -57,7 +57,7 @@
     "rollup-plugin-terser": "^4.0.4",
     "sapper": "^0.26.0-alpha.12",
     "shimport": "0.0.16",
-    "svelte": "^3.0.0-beta.28"
+    "svelte": "^3.49.0"
   },
   "engines": {
     "node": ">=10.0.0"
